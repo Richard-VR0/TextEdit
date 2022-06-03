@@ -2,7 +2,7 @@
 TextEdit is a text editor, available for Windows operating system. This software was developed with python using the tkinter library
 
 # Versions
-<table align="center">
+<table>
   <thead>
     <tr><th>Update information</th><th>Version</th><th>Date</th</tr>
   </thead>
