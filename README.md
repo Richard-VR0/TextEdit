@@ -4,7 +4,7 @@ TextEdit is a text editor, available for Windows operating system. This software
 # Versions
 <table>
   <thead>
-    <tr><th>Update information</th><th>Version</th><th>Date</th</tr>
+    <tr><th>Updates information</th><th>Version</th><th>Date</th</tr>
   </thead>
     
   <tbody>
