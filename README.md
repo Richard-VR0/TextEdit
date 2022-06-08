@@ -23,4 +23,9 @@ TextEdit is a text editor, available for Windows operating system. This software
       <td>2.1</td>
       <td>04/06/2022</td>
     </tr>
+    <tr>
+      <td>Added saving on temporary file</td>
+      <td>3.0</td>
+      <td>08/06/2022</td>
+    </tr>
   </tbody>
